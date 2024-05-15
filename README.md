@@ -1,4 +1,6 @@
-# Deephaven Javascript Plugin Template
+# DEPRECATED
+
+Please use the [cookiecutter templates](https://github.com/deephaven/deephaven-plugins/tree/main/templates) instead.
 
 Use this Template to create a Javascript Plugin
 
